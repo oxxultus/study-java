@@ -17,11 +17,11 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contents
-- [X] ![변수](https://img.shields.io/badge/A%20-변수-orange.svg)
-- [ ] ![연산자](https://img.shields.io/badge/B%20-연산자-orange.svg)
-- [ ] ![조건문과 반복문](https://img.shields.io/badge/C%20-조건문과%20반복문-orange.svg)
-- [ ] ![배열](https://img.shields.io/badge/D%20-배열-orange.svg)
-- [ ] ![객체지향 프로그래밍 1](https://img.shields.io/badge/E%20-객체지향%20프로그래밍%201-orange.svg)
-- [ ] ![객체지향 프로그래밍 2](https://img.shields.io/badge/F%20-객체지향%20프로그래밍%202-orange.svg)
+- [X] ![변수](https://img.shields.io/badge/A-변수-orange.svg)
+- [ ] ![연산자](https://img.shields.io/badge/B-연산자-orange.svg)
+- [ ] ![조건문과 반복문](https://img.shields.io/badge/C-조건문과%20반복문-orange.svg)
+- [ ] ![배열](https://img.shields.io/badge/D-배열-orange.svg)
+- [ ] ![객체지향 프로그래밍 1](https://img.shields.io/badge/E-객체지향%20프로그래밍%201-orange.svg)
+- [ ] ![객체지향 프로그래밍 2](https://img.shields.io/badge/F-객체지향%20프로그래밍%202-orange.svg)
 > 그 외 심화 부분 작성중
 
