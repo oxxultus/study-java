@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=000000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Study+Java+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=000000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Study+Java+Programming)](https://git.io/typing-svg)
 
 ## Purpose
 > 자바를 활용한 객체지향 프로그래밍 공부
