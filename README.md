@@ -12,10 +12,6 @@
 ![window](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![intel cpu](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-## Social
-> ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 ## Contents
 - [X] ![변수](https://img.shields.io/badge/A-변수-orange.svg)
 - [X] ![연산자](https://img.shields.io/badge/B-연산자-orange.svg)
