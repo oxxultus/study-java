@@ -6,6 +6,7 @@
 ## Skills / IDE
 > ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 > ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+> ![netbeans](https://img.shields.io/badge/Netbeans-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## Workspace
 > ![mac](https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white)
