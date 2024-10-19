@@ -1,4 +1,4 @@
-package main.java.developer.test;
+package developer.test;
 
 import java.nio.charset.Charset;
 
