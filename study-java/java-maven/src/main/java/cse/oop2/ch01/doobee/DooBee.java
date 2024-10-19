@@ -1,4 +1,4 @@
-package cse.oop2.ch1.doobee; // lowercase
+package cse.oop2.ch01.doobee; // lowercase
 
 public class DooBee { // PascalCase
     public static void main(String []args){ // camelCase
