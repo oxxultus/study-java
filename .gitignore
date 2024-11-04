@@ -1,6 +1,7 @@
 .idea/
 java-maven/.idea
 .DS_Store
+java-maven/target
+java-maven/src/test
 
 #  cd OneDrive/바탕*/프로그래밍*/study-java
-#  안녕하세요.DS_Store
